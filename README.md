@@ -10,6 +10,6 @@
 ## Sept 29th
 **Goal:** Understand more about TDD
 
-**Methodology:** Read through TD resources, complete relevant guiding exercises/practicals
+**Methodology:** Read through TD resources, [take notes](https://www.evernote.com/l/AkA7oe0jiGlIwLHvUQfsT2cGuuIJ6NMi7Fo), complete relevant guiding exercises/practicals
 
 **Proof/Assessment:** TDD my own simple program, or revise existing program
