@@ -8,6 +8,8 @@
 - Describe some basic OO principles like encapsulation, SRP
 
 ## Sept 29th
-Goal: Understand more about TDD
-Methodology: Read through TD resources, complete relevant guiding exercises/practicals
-Proof/Assessment: TDD my own simple program, or revise existing program
+**Goal:** Understand more about TDD
+
+**Methodology:** Read through TD resources, complete relevant guiding exercises/practicals
+
+**Proof/Assessment:** TDD my own simple program, or revise existing program
