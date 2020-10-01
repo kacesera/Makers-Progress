@@ -12,13 +12,22 @@
 
 **Methodology:** Read through TD resources, [take notes](https://www.evernote.com/l/AkA7oe0jiGlIwLHvUQfsT2cGuuIJ6NMi7Fo)
 
-**Proof/Assessment:** Utilize TDD for exercises & practicals. Create own simple program using TDD.
+**Proof/Assessment:** Utilize TDD for exercises & practicals.
 
-## Sept 30th
+## Sept 30th - October 1st
 **Goal/Objective:** Continue learning and experimenting with TDD, and begin learning on OO principles.
 
 **Methodology:** Finish TDD practicals/exercises, Begin reading about Encapsulation and SRP.
 
-**Assessment:** Write own tests for simple code, explain OO principles that I have learnt. (Won’t be able to get through all today)
+**Assessment:** Write tests for code exercises, write and refactor [https://github.com/kacesera/skills-workshops/blob/master/week-1/writing_tests/spec/library_spec.rb](TDD workshop code), explain OO principles that I have learnt.
 
 **Evaluation:** Send my assessment docs to a coach for feedback.
+
+---
+
+**Feedback:**
+- Look into 'before and after' hooks in RSpec.
+    - Done! I refactored my Library Spec tests to include these, and saved a ton of time!
+- Use ```=>``` when writing an expected return. Two of these indicate two separate returns.
+
+---
