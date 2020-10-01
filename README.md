@@ -19,7 +19,7 @@
 
 **Methodology:** Finish TDD practicals/exercises, Begin reading about Encapsulation and SRP.
 
-**Assessment:** Write tests for code exercises, write and refactor [https://github.com/kacesera/skills-workshops/blob/master/week-1/writing_tests/spec/library_spec.rb](TDD workshop code), explain OO principles that I have learnt.
+**Assessment:** Write tests for code exercises, write and refactor [TDD workshop code](https://github.com/kacesera/skills-workshops/blob/master/week-1/writing_tests/spec/library_spec.rb) , explain OO principles that I have learnt.
 
 **Evaluation:** Send my assessment docs to a coach for feedback.
 
