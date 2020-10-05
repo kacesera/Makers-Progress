@@ -31,3 +31,12 @@
 - Use ```=>``` when writing an expected return. Two of these indicate two separate returns.
 
 ---
+
+## October 5th
+**Goal/Objective:** Soldify knowledge on OO principles (encapsulation & SRP).
+
+**Methodology:** Read, take notes, and look at previous code for examples.
+
+**Assessment:** Create a couple of examples and explain the concepts.
+
+**Evaluation:** Send my assessment to a coach for feedback on my understanding.
