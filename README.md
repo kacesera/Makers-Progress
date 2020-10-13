@@ -40,3 +40,21 @@
 **Assessment:** Create a couple of examples and explain the concepts.
 
 **Evaluation:** Send my assessment to a coach for feedback on my understanding.
+
+---
+## Week 2:
+**Goals:**
+
+- Build a simple web app
+- Follow an effective debugging process for web applications
+- Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
+- Explain the MVC pattern
+
+## October 13th
+**Goal/Objective:** Explore and learn about servers.
+
+**Methodology:** Complete the 'Servers' & 'HTTP Servers' practicals, and participate in the 'Process Modelling HTTP' workshop.
+
+**Assessment:** Complete the exercises in those practicals and explain how these servers work at a basic level. 
+
+**Evaluation:** Ask a coach to look over my explanation and exercises to check understanding.
