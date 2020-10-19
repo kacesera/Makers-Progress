@@ -42,7 +42,7 @@
 **Evaluation:** Send my assessment to a coach for feedback on my understanding.
 
 ---
-## Week 2:
+## Week 3:
 **Goals:**
 
 - Build a simple web app
@@ -58,3 +58,22 @@
 **Assessment:** Complete the exercises in those practicals and explain how these servers work at a basic level. 
 
 **Evaluation:** Ask a coach to look over my explanation and exercises to check understanding.
+
+## October 16th
+**Goal/Objective:** Create a simple web app
+
+**Methodology:** Create the Birthday App, using TDD.
+
+**Assessment/Evaluation:** Does the Birthday App *function* as expected? 
+
+---
+## Week 4:
+**Goals:**
+
+## October 19th
+**Goal/Objective:** Begin getting familiar with SQL
+
+**Methodology:** Complete/begin murder mystery challenge.
+
+**Assessment/Evaluation:** What do I understand about SQL/PostGresSQL? What is it used for? How can I use it? What do I want to know?
+
